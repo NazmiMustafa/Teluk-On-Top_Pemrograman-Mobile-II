@@ -1,0 +1,3 @@
+- [x] Tambahkan penanganan error pada StreamBuilder di lib/pages/books/books_list.dart
+- [x] Tambahkan penanganan error pada StreamBuilder di lib/pages/students/students_list.dart
+- [ ] Tambahkan penanganan error pada StreamBuilder di lib/pages/borrows/borrow_list.dart

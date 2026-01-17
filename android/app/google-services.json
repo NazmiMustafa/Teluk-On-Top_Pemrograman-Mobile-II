@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1081023535088",
+    "project_id": "telukontop",
+    "storage_bucket": "telukontop.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081023535088:android:8c4c280a526f564a256f35",
+        "android_client_info": {
+          "package_name": "com.example.teluk_on_top__perpustakaan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEAA5ixKqaEMBYyboqMHUP_ofBMCvJB9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
